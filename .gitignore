@@ -140,6 +140,7 @@ Session.vim
 
 # Build
 build/
+build-*/
 
 src/hrtf/mysofa_export.h
 src/hrtf/config.h
